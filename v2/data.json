@@ -1,0 +1,12 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "测试示例",
+      "url": "https://www.example.com",
+      "avatar": "https://www.example.com/avatar.jpg",
+      "screenshot": "https://www.example.com/screenshot.jpg",
+      "description": "测试示例"
+    }
+  ]
+}
